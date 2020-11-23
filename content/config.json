@@ -1,20 +1,20 @@
 {
-  "title": "Africasts",
-  "shortname": "Africasts",
-  "description": "Collection of free design tools and resources for makers, developers and designers",
-  "contact_link": "https://www.google.com",
+  "title": "CVNNΛBIS",
+  "shortname": "CVNNΛBIS",
+  "description": "CVNNABIS surfaces the best new cannabis products, every day. It's a place for cannabis-loving enthusiasts to find, share and geek out about the latest news, websites, hemp projects, and head shops.",
+  "contact_link": "https://www.cvnnabis.com",
   "google_analytics": "G-QWW9YH0WM9",
   "hostname": "https://curated-content.netlify.app/",
-  "icon": "/images/logos/africasts_promo.jpg",
+  "icon": "/images/logos/2.png",
   "floatingPrompt": {
     "width": "500px",
     "left": "unset",
     "bottom": "112px",
-    "name": "Africasts curated podcasts",
-    "text": "Hi, do you like Africasts? Don't forget to show your love on Product Hunt 🚀",
-    "url": "https://www.producthunt.com/posts/curatedstack-no-code-template",
+    "name": "CVNNABIS curated content",
+    "text": "Hi, do you like cannabis? Don't forget to sign-up to our newsletter 🚀",
+    "url": "https://www.cvnnabis.com/",
     "right": "32px",
     "disabled": false,
-    "buttonText": "Africasts on Product Hunt"
+    "buttonText": "CVNNABIS on the roll 😉"
   }
 }
